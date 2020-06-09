@@ -14,3 +14,10 @@ AddOutputFilterByType DEFLATE image/gif
 AddOutputFilterByType DEFLATE image/jpeg
 AddOutputFilterByType DEFLATE image/svg+xml
 </IfModule>
+
+# Allow access from all domains for webfonts.
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|font.css|css)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
