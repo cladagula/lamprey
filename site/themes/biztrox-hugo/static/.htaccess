@@ -18,6 +18,6 @@ AddOutputFilterByType DEFLATE image/svg+xml
 # Allow access from all domains for webfonts.
 <IfModule mod_headers.c>
   <FilesMatch "\.(ttf|ttc|otf|eot|woff|font.css|css)$">
-    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Origin "https://www.lampreyusa.com"
   </FilesMatch>
 </IfModule>
