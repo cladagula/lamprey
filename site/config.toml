@@ -1,5 +1,6 @@
 ######################### default configuration ###############################
 baseURL = "https://www.lampreyusa.com"
+baseURL = "https://www.lamprey.com.ve"
 title = "Lamprey Security Solutions"
 theme = "biztrox-hugo"
 # post pagination
