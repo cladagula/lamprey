@@ -17,6 +17,8 @@ satisfied_clients:
     - images/client-logo/netgear-white.png
     - images/client-logo/hikvision-white.png
     - images/client-logo/dahua-white.png
+    - images/client-logo/pelco-white.png
+    - images/client-logo/grandstream-white.png
     
 ##################################### call to action #################################
 testimonial:

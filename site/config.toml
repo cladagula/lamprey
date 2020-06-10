@@ -1,6 +1,5 @@
 ######################### default configuration ###############################
 baseURL = "https://www.lampreyusa.com"
-baseURL = "https://www.lamprey.com.ve"
 title = "Lamprey Security Solutions"
 theme = "biztrox-hugo"
 # post pagination
@@ -218,6 +217,15 @@ link = "https://uniden.com/"
 [[params.clients_logo_slider]]
 logo = "images/client-logo/cisco.png"
 link = "https://cisco.com/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/grandstream.png"
+link = "https://pelco.com/"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/pelco.png"
+link = "http://www.grandstream.com/"
+
 
 
 
