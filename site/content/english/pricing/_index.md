@@ -5,6 +5,8 @@ bg_image: images/background/page-title.jpg
 description : "This is meta description"
 ---
 
-## Pricing For You
+## Pricing Packs
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Product Specifications and Prices Disclaimer:
+
+Technical specifications, characteristics, functions, colors, prices are true as of last update of this website. Due to occasional changes in technology some of these mentioned may change. The final prices are calculated with a 5% additional discount considering payment method is cash or wire transfer. The price can increase depending on the payment type.
