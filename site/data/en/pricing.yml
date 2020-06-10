@@ -3,7 +3,7 @@ pricing_table :
   # pricing table loop
   - title : Starter HD
     icon : ti-medall # themify icon pack : https://themify.me/themify-icons
-    value : $409,50
+    value : $439,99
     unit :  Final Price
     link : 'https://www.lampreyusa.com/contact/'
     service_list: 
@@ -19,7 +19,7 @@ pricing_table :
   # pricing table loop
   - title : Premium HD
     icon : ti-medall-alt # themify icon pack : https://themify.me/themify-icons
-    value : $471,52
+    value : $509,99
     unit : Final Price
     link : 'https://www.lampreyusa.com/contact/'
     service_list : 
@@ -37,7 +37,7 @@ pricing_table :
   # pricing table loop
   - title : Platinum 4K
     icon : ti-crown # themify icon pack : https://themify.me/themify-icons
-    value : $4357,10
+    value : $4699,99
     unit : Final Price
     link : 'https://www.lampreyusa.com/contact/'
     service_list : 
