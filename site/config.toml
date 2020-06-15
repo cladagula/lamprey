@@ -62,10 +62,10 @@ disableLanguages = "Fr" # desable language from here
   URL = "blog"
   weight = 3
   
-  # [[menu.main]]
-  # name = "Team"
-  # URL = "team"
-  # weight = 4
+   [[menu.main]]
+   name = "Team"
+   URL = "team"
+   weight = 4
   
   [[menu.main]]
   name = "Pricing"
