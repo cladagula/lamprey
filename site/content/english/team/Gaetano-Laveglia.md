@@ -1,7 +1,7 @@
 ---
 title: "Gaetano Laveglia"
-date: 2018-09-29T14:41:38+06:00
-description : "This is meta description"
+# date: 2017-09-29T14:41:38+06:00
+# description : ""
 designation: CEO
 image : images/team/gaetano-laveglia.jpg
 bg_image: images/background/page-title.jpg

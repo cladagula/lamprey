@@ -1,7 +1,7 @@
 ---
 title: "Claudio Guizzetti"
-date: 2018-09-29T14:43:10+06:00
-description : "This is meta description"
+# date: 2018-09-29T14:43:10+06:00
+# description : ""
 designation: DevOps
 image : images/team/claudio-guizzetti.jpg
 cv : "https://claudio.guizzetti.co"
