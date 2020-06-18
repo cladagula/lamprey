@@ -1,29 +1,31 @@
 ---
-title: "Video Wall for HD CCTV"
+title: "Ubiquiti Uplink"
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
 bg_image: images/background/page-title.jpg
 image : images/project/project-4.jpg
-live_demo : "https://imgur.com/a/UfiUf"
+# live_demo : "https://imgur.com/a/UfiUf"
 # case_study : "#"
-category: cctv
+category: data
 
 # overview
 overview:
   - label : Client
-    data : PDVSA
+    data : Sun Terminal
     
   - label : Category
-    data : CCTV
+    data : Data
     
   - label : Sector
-    data : Public
+    data : Private
     
   - label : Date
-    data : 06 sep, 2013
+    data : 22 dec, 2015
 
 # type
 type : project
 ---
 
-### Video Wall CCTV Avigilon
+### Ubiquiti link for IP Cameras
+
+Uplink for IP cameras in port Everglades (Fort Lauderdale, FL)

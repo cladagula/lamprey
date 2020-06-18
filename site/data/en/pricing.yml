@@ -3,8 +3,8 @@ pricing_table :
   # pricing table loop
   - title : Starter HD
     icon : ti-medall # themify icon pack : https://themify.me/themify-icons
-    value : $439,99
-    unit :  Final Price
+    # value : $439,99
+    # unit :  Final Price
     link : 'https://www.lampreyusa.com/contact/'
     service_list: 
       - Turbo DVR 8CH 1080P
@@ -19,8 +19,8 @@ pricing_table :
   # pricing table loop
   - title : Premium HD
     icon : ti-medall-alt # themify icon pack : https://themify.me/themify-icons
-    value : $509,99
-    unit : Final Price
+    # value : $509,99
+    # unit : Final Price
     link : 'https://www.lampreyusa.com/contact/'
     service_list : 
       - Turbo DVR 8CH 1080P
@@ -37,8 +37,8 @@ pricing_table :
   # pricing table loop
   - title : Platinum 4K
     icon : ti-crown # themify icon pack : https://themify.me/themify-icons
-    value : $4699,99
-    unit : Final Price
+    # value : $4699,99
+    # unit : Final Price
     link : 'https://www.lampreyusa.com/contact/'
     service_list : 
       - Turbo NVR 16CH 8MP

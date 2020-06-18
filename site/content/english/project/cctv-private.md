@@ -4,7 +4,7 @@ date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
 bg_image: images/background/page-title.jpg
 image : images/project/cctv-private.jpg
-live_demo : "https://imgur.com/a/UfiUf"
+# live_demo : "https://imgur.com/a/UfiUf"
 # case_study : "#"
 category: cctv
 
