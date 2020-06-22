@@ -27,14 +27,9 @@ information:
 
 # contacts
 contacts:
-  - icon : ti-mobile
-    id : +1 (786) 519-1637
-    
+
   - icon : ti-email
     id : cguizzetti@lampreyusa.com
-    
-  - icon : ti-location-pin
-    id : Valencia, Spain
 
   - icon : ti-microphone
     id : Lenguages English, Spanish, Italian, German
