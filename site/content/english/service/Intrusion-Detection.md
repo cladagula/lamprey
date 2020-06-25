@@ -5,7 +5,7 @@ description : "Protect your business from thieves"
 image: images/service/service-1.jpg
 bg_image: images/background/page-title.jpg
 icon: ti-shield
-# brochure: '#'
+brochure: 'https://vimeo.com/432192522'
 regularDay: Weekdays
 regularTime: 08.00am - 06.00pm
 halfDay: Satuday

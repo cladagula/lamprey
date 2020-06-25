@@ -235,6 +235,10 @@ icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.instagram.com/lampreyllc/"
 
 [[params.social]]
+icon = "ti-vimeo-alt" # themify icon pack : https://themify.me/themify-icons
+link = "https://vimeo.com/user118095291"
+
+[[params.social]]
 icon = "ti-email" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.lampreyusa.com/contact/"
 

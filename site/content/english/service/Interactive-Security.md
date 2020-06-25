@@ -5,7 +5,7 @@ description : "Smart Security Is Smart Business"
 image: images/service/service-3.jpg
 bg_image: images/background/page-title.jpg
 icon: ti-mobile
-# brochure: '#'
+brochure: 'https://vimeo.com/431027957'
 regularDay: Weekdays
 regularTime: 08.00am - 06.00pm
 halfDay: Satuday

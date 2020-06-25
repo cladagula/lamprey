@@ -133,9 +133,9 @@ mission:
 ##################################### Promo video ####################################
 promo_video:
   enable : true
-  title : "We Are Alawys <br> Comited"
+  title : "Why choose <br> Us"
   bg_image : "images/background/promo-video.jpg"
-  # video_URL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  video_URL : "https://vimeo.com/432616487"
   video_title : "See what Lamprey can <br> do for you."
 
 ##################################### call to action #################################

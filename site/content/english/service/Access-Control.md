@@ -5,7 +5,7 @@ description : "Access Control Solutions that Match Your Needs"
 image: images/service/service-4.jpg
 bg_image: images/background/page-title.jpg
 icon: ti-lock
-# brochure: '#'
+brochure: 'https://vimeo.com/432599572'
 regularDay: Weekdays
 regularTime: 08.00am - 06.00pm
 halfDay: Satuday

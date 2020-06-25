@@ -5,7 +5,7 @@ description : "A High-Tech Eyes into Your Business"
 image: images/service/service-5.jpg
 bg_image: images/background/page-title.jpg
 icon: ti-video-camera
-# brochure: '#'
+brochure: 'https://vimeo.com/432244319'
 regularDay: Weekdays
 regularTime: 08.00am - 06.00pm
 halfDay: Satuday
