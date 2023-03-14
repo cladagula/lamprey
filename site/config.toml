@@ -105,7 +105,7 @@ disableLanguages = "Fr" # desable language from here
 logo = "images/logo.png"
 logo_white = "images/logo-footer.png"
 mail = "info@lampreyusa.com"
-mobile = "+1 786 708 1370‬"
+mobile = "+1 786 609-4316‬"
 # Meta data
 description = "Many companies trust us. We will create a custom security solution for you. Equipment installation offers. Chat with a business solutions expert now."
 author = "Lamprey"
@@ -136,8 +136,6 @@ icon = "ti-mobile"
   [[params.contacts.contact]]
   contact_item = "+1 786 609 4316‬"
 
-  [[params.contacts.contact]]
-  contact_item = "+1 786 708 1370‬"
 
 [[params.contacts]]
 icon = "ti-email"
@@ -145,24 +143,22 @@ icon = "ti-email"
   [[params.contacts.contact]]
   contact_item = "info@lampreyusa.com"
 
-  [[params.contacts.contact]]
-  contact_item = "suport@lampreyusa.com"
   
 [[params.contacts]]
 icon = "ti-map-alt"
 
   [[params.contacts.contact]]
-  contact_item = "2400 SW 27TH AVE"
+  contact_item = "8600 NW ST #6 DORAL"
 
   [[params.contacts.contact]]
-  contact_item = "MIAMI, FL 33145"
+  contact_item = "MIAMI, FL 33166"
 
 ############################ google map #####################################
 [params.gmap]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "25.8311002"
+map_longitude = "-80.3372163"
 map_marker = "images/marker.png"
 
 ############################ client logo slider #############################
